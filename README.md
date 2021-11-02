@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm @Dk_king_offcial</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm @Dk_king_offcial</h1>
 <h3 align="center">A passionate frontend developer from SRILANKA</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<a href="#"><img width="100%" height="auto" src=<img src="https://img.icons8.com/color-glass/100/000000/code-file.png"/>
-/>"/>
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/> 
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan3030&label=Profile%20views&color=0cb62e&style=flat" alt="heshan3030" /> </p>
 
