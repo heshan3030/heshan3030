@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm @Dk_king_offcial</h1>
-<h3 align="center">🔥 A passionate frontend developer from SRILANKA 🔥</h3>
+<h3 align="center">A passionate frontend developer from SRILANKA</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
