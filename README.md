@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm @Dk_king_offcial</h1>
 <h3 align="center">A passionate frontend developer from SRILANKA</h3>
 <img src="https://img.icons8.com/ios/50/000000/code-file.png"/>
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/>
-<img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-developer-coding-kiranshastry-solid-kiranshastry-1.png"/>
-<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-kiranshastry-1.png"/>
-<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"/>
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/><br/>
+<img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-developer-coding-kiranshastry-solid-kiranshastry-1.png"/><br/>
+<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-kiranshastry-1.png"/><br/>
+<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan3030&label=Profile%20views&color=0cb62e&style=flat" alt="heshan3030" /> </p>
 
