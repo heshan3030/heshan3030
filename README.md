@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @Dk_king_offcial</h1>
 <h3 align="center">A passionate frontend developer from SRILANKA</h3>
 
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan3030&label=Profile%20views&color=0cb62e&style=flat" alt="heshan3030" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshan3030" alt="heshan3030" /></a> </p>
