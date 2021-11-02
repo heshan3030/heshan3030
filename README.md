@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @Dk_king_offcial</h1>
 <h3 align="center">A passionate frontend developer from SRILANKA</h3>
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <img src="https://img.icons8.com/ios/50/000000/code-file.png"/>
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/>
 
