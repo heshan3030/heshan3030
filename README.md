@@ -3,7 +3,8 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<a href="#"><img width="100%" height="auto" src="https://img.icons8.com/ios/100/000000/code-file.png"/>"/>
+<a href="#"><img width="100%" height="auto" src=<img src="https://img.icons8.com/color-glass/100/000000/code-file.png"/>
+/>"/>
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/>
 
 
