@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Dk_king_offcial</h1>
-<h3 align="center">A passionate frontend developer from SRILANKA</h3>
+<h3 align="center">A Single developer  from SRILANKA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan3030&label=Profile%20views&color=0e75b6&style=plastic" alt="heshan3030" /> </p>
 
